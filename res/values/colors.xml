@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<!--  心形加载的水波颜色 -->
+	<color name="wave_color">#e33d0b</color>
+	
+	<color name="white">#FFFFFF</color>
+</resources>
